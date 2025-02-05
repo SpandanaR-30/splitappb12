@@ -65,6 +65,12 @@
         "settings": {
           "bundleName": "app.splitappb12.i18n.i18n"
         }
+        
+      },
+      
+      "toolModel":{
+        "type": "sap.ui.model.json.JSONModel",
+        "uri": "/model/mockData/toolsData.json"
       }
     },
     "resources": {
